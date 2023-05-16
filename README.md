@@ -98,7 +98,7 @@ if __name__ == "__main__":
 
 ```
 </p></details></br>
-Por ultimo el punto numero 3.
+
 ## 3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
 
 <details><summary>el codigo esta aqui</summary><p>
@@ -131,4 +131,8 @@ print(lista)
 ```
 </p></details></br>
 
+
+## El cuarto punto es : Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).
+por lo tanto no hay ejercicio o codigo al respecto.
+<p> </p>
 #Esto es  todo lo que tengo :(  . 
