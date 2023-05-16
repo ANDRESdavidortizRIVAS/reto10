@@ -1,8 +1,8 @@
-# reto10  # Reto 10
+# Este es el reto 10
+#  Y sus punto a continuacion...
+## 1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 
-### 1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
-
-<details>el codigo esta aqui <p>
+<details><summary>el codigo esta aqui</summary><p>
 
 ``` python
 # Se crea la lista con la informacion que nos proporcione el usuario.
@@ -38,9 +38,9 @@ print("El promedio de la lista : "+ str(lista) +"\nes : "+str(prom_list))
 ```
 </p></details></br>
 
-### 2. Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
+## 2. Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 
-<details>el codigo esta aqui <p>
+<details><summary>el codigo esta aqui</summary><p>
 
 ``` python
 def lis1(tam):
@@ -99,7 +99,7 @@ if __name__ == "__main__":
 ```
 </p></details></br>
 Por ultimo el punto numero 3.
-### 3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
+## 3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
 
 <details><summary>el codigo esta aqui</summary><p>
 
